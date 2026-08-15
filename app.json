@@ -29,7 +29,7 @@
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "- "〆͎𐏓 𝙏𝙃ع 𝙍𝘼𝙕𝘼 〆͎"
+      "value": "- "𐏓 𝙏𝙃ع 𝙍𝘼𝙕𝘼"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
