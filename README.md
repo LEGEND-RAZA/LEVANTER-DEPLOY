@@ -59,21 +59,3 @@
 </p>
 
 **Group:** 𓆩֓⤹𝐂ʜᴀʈʈɪɴɢ ፝ Ꮿ͜๏፝֟ɼɭ∂⎯꯭
-
----
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=500&lines=LEGEND+RAZA" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/LEGEND-RAZA/count.svg" />
-</p>[![WhatsApp 2](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923280966780)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/innoxcent.raza)
-
-[![WhatsApp Group](https://img.shields.io/badge/WhatsApp_Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/2fokBPCKgLY8Kt0G3XH9EQ)
-
-**ɢʀᴏᴜᴘ:** 𓆩֓⤹𝐂ʜᴀʈʈɪɴɢ ፝ Ꮿ͜๏፝֟ɼɭ∂
