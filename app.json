@@ -39,7 +39,7 @@
     "HEROKU_API_KEY": {
       "description": "Heroku account api key, https://dashboard.heroku.com/account",
       "required": true,
-      "value": "HRKU-AAdoEX1qqvgpUFfpd0KcFfhjlZFdw9RV6dWYSNuKZgCw_____wUTXtulqTNe"
+      "value": "HRKU-AAngvJFxu6dA_g-XDueo_mZMPU9jK0Tv6kVqQgOMsU4A_____w76tgPU383n"
     },
     "WARN_LIMIT": {
       "description": "Maximum number of warnings to a person.",
